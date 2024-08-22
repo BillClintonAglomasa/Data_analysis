@@ -5,3 +5,7 @@ This script is meant to merge cvs files with the same name from different subdir
 
 2. Merge_cvs_in_a_directory.py
 This script merges all files with the .cv extension in a folder.
+
+3. Pie_plots.py
+This script plots two different pie charts and a bar graph using plotly module.
+
