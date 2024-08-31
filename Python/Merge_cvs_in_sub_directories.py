@@ -1,5 +1,9 @@
 #!/bin/python3
 
+# Creating classes
+# 1. Class for importing libraries
+# 2. Class to merge excel sheets
+# 3. Class to process the merged sheets.
 import os
 import pandas as pd
 import fnmatch
@@ -61,5 +65,4 @@ for pattern, merged_df in merged_dfs.items():
         print(f"Merged and aggregated CSV for {pattern} saved as {output_filename}.")
 
 print(f"All merged and aggregated CSV files saved in {output_dir}.")
-
 
