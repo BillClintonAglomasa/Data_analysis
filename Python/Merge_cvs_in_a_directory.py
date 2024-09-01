@@ -1,5 +1,8 @@
 #!/bin/python3
 
+#class options
+# load models
+# Concate models using unique keys
 import os
 import pandas as pd
 
