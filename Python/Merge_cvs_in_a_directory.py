@@ -1,6 +1,12 @@
 #!/bin/python3
 
 #class options
+#class Import_modules (object):
+#
+#    def import_modules(self):
+#        import os
+#        import pandas as pd
+        
 # load models
 # Concate models using unique keys
 import os
